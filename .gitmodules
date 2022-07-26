@@ -1,0 +1,3 @@
+[submodule "plugin-sorald"]
+	path = plugin-sorald
+	url = git@github.com:gustavopintozup/plugin-sorald.git
