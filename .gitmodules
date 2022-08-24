@@ -4,3 +4,6 @@
 [submodule "plugin-cdd-java"]
 	path = plugin-cdd-java
 	url = git@github.com:gustavopintozup/plugin-cdd-java.git
+[submodule "plugin-asniffer"]
+	path = plugin-asniffer
+	url = https://github.com/gustavopintozup/plugin-asniffer
