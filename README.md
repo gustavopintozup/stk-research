@@ -23,6 +23,12 @@ A static analysis plugin that computes metrics on Java annotations. More [here](
 
 A static analysis plugin that computes CK metrics
 
+
+## Flacoco plugin
+
+A plugin for a fault localizaiton tool based on Jacoco. More [here](https://github.com/gustavopintozup/asniffer).
+
+
 ## License
 
 This repository is licensed under MIT.

@@ -10,3 +10,6 @@
 [submodule "plugin-ck"]
 	path = plugin-ck
 	url = git@github.com:gustavopintozup/plugin-ck.git
+[submodule "plugin-flacoco"]
+	path = plugin-flacoco
+	url = git@github.com:gustavopintozup/plugin-flacoco.git
