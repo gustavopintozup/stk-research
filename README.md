@@ -12,9 +12,16 @@ A static analysis plugin that computes CDD metrics. More [here](https://github.c
 
 A automatic repair plugin that fixes SonarQube violations. More [here](https://github.com/gustavopintozup/plugin-sorald).
 
-## Sorald plugin
+## Asniffer plugin
 
 A static analysis plugin that computes metrics on Java annotations. More [here](https://github.com/gustavopintozup/asniffer).
+
+
+## CK plugin
+
+A static analysis plugin that computes metrics on Java annotations. More [here](https://github.com/gustavopintozup/asniffer).
+
+A static analysis plugin that computes CK metrics
 
 ## License
 

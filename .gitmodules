@@ -7,3 +7,6 @@
 [submodule "plugin-asniffer"]
 	path = plugin-asniffer
 	url = https://github.com/gustavopintozup/plugin-asniffer
+[submodule "plugin-ck"]
+	path = plugin-ck
+	url = git@github.com:gustavopintozup/plugin-ck.git
