@@ -14,19 +14,17 @@ A automatic repair plugin that fixes SonarQube violations. More [here](https://g
 
 ## Asniffer plugin
 
-A static analysis plugin that computes metrics on Java annotations. More [here](https://github.com/gustavopintozup/asniffer).
+A static analysis plugin that computes metrics on Java annotations. More [here](https://github.com/gustavopintozup/plugin-asniffer).
 
 
 ## CK plugin
 
-A static analysis plugin that computes metrics on Java annotations. More [here](https://github.com/gustavopintozup/asniffer).
-
-A static analysis plugin that computes CK metrics
+A static analysis plugin that computes CK metrics. More [here](https://github.com/gustavopintozup/plugin-ck).
 
 
 ## Flacoco plugin
 
-A plugin for a fault localizaiton tool based on Jacoco. More [here](https://github.com/gustavopintozup/asniffer).
+A plugin for a fault localizaiton tool based on Jacoco. More [here](https://github.com/gustavopintozup/plugin-asniffer).
 
 
 ## License
