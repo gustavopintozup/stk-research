@@ -2,12 +2,11 @@ description: This is a StackSpot Stack with plugins of research tools that aim t
 name: stk-research
 display-name: stk-research
 picture: stack.png
-category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
+category: Analytics # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility: # Put a list of technologies compatible with the stack
-  - java
-  - spring
+  - Java
 technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
-  - docker 
+  - Java 
 about: docs/about.md
 use-cases:
   - title: Use Case Title
